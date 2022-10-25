@@ -1,3 +1,6 @@
 [submodule "Account"]
 	path = Account
 	url = https://github.com/karanimaina/Account.git
+[submodule "LoansMicroservice"]
+	path = LoansMicroservice
+	url = https://github.com/karanimaina/LoansMicroservice.git
