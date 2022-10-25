@@ -7,6 +7,11 @@ target/
 ### STS ###
 .apt_generated
 .classpath
+pom.xml
+mvnw.cmd
+HELP.md
+Banking.iml
+mvnw
 .factorypath
 .project
 .settings
